@@ -1,31 +1,15 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>SAF</title>
+    <meta charset="utf-8">
     <link rel="stylesheet" href="css/materialize.min.css">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="fonts/roboto">
     <script src="js/jquery3.2.1.js"></script>
     <script src="js/jquery-ui.min.js"></script>
     <script src="js/materialize.js"></script>
-    <script src="js/main.js"></script>
 </head>
-<header>
-
-    <nav>
-        <div class="nav-wrapper">
-            <a href="#" class="brand-logo">Logo</a>
-            <ul id="nav-mobile" class="right hide-on-med-and-down">
-                <li><a href="sass.html">Sass</a></li>
-                <li><a href="badges.html">Components</a></li>
-                <li><a href="collapsible.html">JavaScript</a></li>
-            </ul>
-        </div>
-    </nav>
-
-</header>
+<body>
 <body>
 <p>Premier match de groupe</p>
 <form action="firstgame" method="post">
@@ -288,9 +272,7 @@
         </li>
     </ul>
 </form>
-
-<button type="button" name="button"><a class="waves-effect waves-light btn" href="page1.php">Commencer</a></button>
+<button type="button" name="button"><a class="waves-effect waves-light btn" href="page1.php"></a></button>
 </body>
-<footer>
-</footer>
+</body>
 </html>

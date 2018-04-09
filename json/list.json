@@ -1,166 +1,3949 @@
 {
-  "teams": [
+  "name": "World Cup 2018",
+  "groups": [
     {
-      "id" : "1",
-      "name" : "Allemagne",
-      "emblem" : "uploads/emblem/allemagne.png"
+      "id" : "A",
+      "teams": [
+        {
+          "id" : "1",
+          "name" : "Russie",
+          "emblem" : "uploads/emblem/russie.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "2",
+          "name" : "Arabie Saoudite",
+          "emblem" : "uploads/emblem/arabie_saoudite.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "3",
+          "name" : "Egypte",
+          "emblem" : "uploads/emblem/egypte.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "4",
+          "name" : "Uruguay",
+          "emblem" : "uploads/emblem/uruguay.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id" : "2",
-      "name" : "Angleterre",
-      "emblem" : "uploads/emblem/angleterre.jpg"
+      "id" : "B",
+      "teams": [
+        {
+          "id" : "1",
+          "name" : "Portugal",
+          "emblem" : "uploads/emblem/portugal.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "2",
+          "name" : "Espagne",
+          "emblem" : "uploads/emblem/espagne.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "3",
+          "name" : "Maroc",
+          "emblem" : "uploads/emblem/maroc.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "4",
+          "name" : "Iran",
+          "emblem" : "uploads/emblem/iran.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id" : "3",
-      "name" : "Arabie Saoudite",
-      "emblem" : "uploads/emblem/arabie_saoudite.png"
+      "id" : "C",
+      "teams": [
+        {
+          "id" : "1",
+          "name" : "France",
+          "emblem" : "uploads/emblem/france.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "2",
+          "name" : "Australie",
+          "emblem" : "uploads/emblem/austalie.gif",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "3",
+          "name" : "Pérou",
+          "emblem" : "uploads/emblem/perou.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "4",
+          "name" : "Danemark",
+          "emblem" : "uploads/emblem/danemark.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id" : "4",
-      "name" : "Argentine",
-      "emblem" : "uploads/emblem/argentine.png"
+      "id" : "D",
+      "teams": [
+        {
+          "id" : "1",
+          "name" : "Argentine",
+          "emblem" : "uploads/emblem/argentine.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "2",
+          "name" : "Islande",
+          "emblem" : "uploads/emblem/islande.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "3",
+          "name" : "Croatie",
+          "emblem" : "uploads/emblem/croatie.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "4",
+          "name" : "Nigéria",
+          "emblem" : "uploads/emblem/nigeria.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id" : "5",
-      "name" : "Australie",
-      "emblem" : "uploads/emblem/austalie.gif"
+      "id" : "E",
+      "teams": [
+        {
+          "id" : "1",
+          "name" : "Brésil",
+          "emblem" : "uploads/emblem/bresil.svg",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "2",
+          "name" : "Suisse",
+          "emblem" : "uploads/emblem/suisse.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "3",
+          "name" : "Costa Rica",
+          "emblem" : "uploads/emblem/costa_rica.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "4",
+          "name" : "Serbie",
+          "emblem" : "uploads/emblem/serbie.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id" : "6",
-      "name" : "Belgique",
-      "emblem" : "uploads/emblem/belgique.png"
+      "id" : "F",
+      "teams": [
+        {
+          "id" : "1",
+          "name" : "Allemagne",
+          "emblem" : "uploads/emblem/allemagne.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "2",
+          "name" : "Mexique",
+          "emblem" : "uploads/emblem/mexique.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "3",
+          "name" : "Suède",
+          "emblem" : "uploads/emblem/suede.svg",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "4",
+          "name" : "Corée du Sud",
+          "emblem" : "uploads/emblem/coree_du_sud.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id" : "7",
-      "name" : "Brésil",
-      "emblem" : "uploads/emblem/brésil.svg"
+      "id" : "G",
+      "teams": [
+        {
+          "id" : "1",
+          "name" : "Belgique",
+          "emblem" : "uploads/emblem/belgique.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "2",
+          "name" : "Panama",
+          "emblem" : "uploads/emblem/panama.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "3",
+          "name" : "Tunisie",
+          "emblem" : "uploads/emblem/tunisie.svg",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "4",
+          "name" : "Angleterre",
+          "emblem" : "uploads/emblem/angleterre.jpg",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id" : "8",
-      "name" : "Colombie",
-      "emblem" : "uploads/emblem/colombie.svg"
-    },
-    {
-      "id" : "9",
-      "name" : "Corée du Sud",
-      "emblem" : "uploads/emblem/corée_du_sud.png"
-    },
-    {
-      "id" : "10",
-      "name" : "Costa Rica",
-      "emblem" : "uploads/emblem/costa_rica.png"
-    },
-    {
-      "id" : "11",
-      "name" : "Croatie",
-      "emblem" : "uploads/emblem/croatie.png"
-    },
-    {
-      "id" : "12",
-      "name" : "Danemark",
-      "emblem" : "uploads/emblem/danemark.png"
-    },
-    {
-      "id" : "13",
-      "name" : "Egypte",
-      "emblem" : "uploads/emblem/egypte.png"
-    },
-    {
-      "id" : "14",
-      "name" : "Espagne",
-      "emblem" : "uploads/emblem/espagne.png"
-    },
-    {
-      "id" : "15",
-      "name" : "France",
-      "emblem" : "uploads/emblem/france.png"
-    },
-    {
-      "id" : "16",
-      "name" : "Iran",
-      "emblem" : "uploads/emblem/iran.png"
-    },
-    {
-      "id" : "17",
-      "name" : "Islande",
-      "emblem" : "uploads/emblem/islande.png"
-    },
-    {
-      "id" : "18",
-      "name" : "Japon",
-      "emblem" : "uploads/emblem/japon.png"
-    },
-    {
-      "id" : "19",
-      "name" : "Maroc",
-      "emblem" : "uploads/emblem/maroc.png"
-    },
-    {
-      "id" : "20",
-      "name" : "Mexique",
-      "emblem" : "uploads/emblem/mexique.png"
-    },
-    {
-      "id" : "21",
-      "name" : "Nigéria",
-      "emblem" : "uploads/emblem/nigéria.png"
-    },
-    {
-      "id" : "22",
-      "name" : "Panama",
-      "emblem" : "uploads/emblem/panama.png"
-    },
-    {
-      "id" : "23",
-      "name" : "Pérou",
-      "emblem" : "uploads/emblem/pérou.png"
-    },
-    {
-      "id" : "24",
-      "name" : "Pologne",
-      "emblem" : "uploads/emblem/pologne.jpg"
-    },
-    {
-      "id" : "25",
-      "name" : "Portugal",
-      "emblem" : "uploads/emblem/portugal.png"
-    },
-    {
-      "id" : "26",
-      "name" : "Russie",
-      "emblem" : "uploads/emblem/russie.png"
-    },
-    {
-      "id" : "27",
-      "name" : "Sénégal",
-      "emblem" : "uploads/emblem/senegal.jpg"
-    },
-    {
-      "id" : "28",
-      "name" : "Serbie",
-      "emblem" : "uploads/emblem/serbie.png"
-    },
-    {
-      "id" : "29",
-      "name" : "Suède",
-      "emblem" : "uploads/emblem/suede.svg"
-    },
-    {
-      "id" : "30",
-      "name" : "Suisse",
-      "emblem" : "uploads/emblem/suisse.png"
-    },{
-      "id" : "31",
-      "name" : "Tunisie",
-      "emblem" : "uploads/emblem/tunisie.svg"
-    },
-    {
-      "id" : "32",
-      "name" : "Uruguay",
-      "emblem" : "uploads/emblem/uruguay.png"
+      "id" : "H",
+      "teams": [
+        {
+          "id" : "1",
+          "name" : "Pologne",
+          "emblem" : "uploads/emblem/pologne.jpg",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "2",
+          "name" : "Sénégal",
+          "emblem" : "uploads/emblem/senegal.jpg",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "3",
+          "name" : "Colombie",
+          "emblem" : "uploads/emblem/colombie.svg",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        },
+        {
+          "id" : "4",
+          "name" : "Japon",
+          "emblem" : "uploads/emblem/japon.png",
+          "players": [
+            {
+              "id" : "1",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "2",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "3",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "4",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "5",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "6",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "7",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "8",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "9",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "10",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "11",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "12",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "13",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "14",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "15",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "16",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "17",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "18",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "19",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "20",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "21",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "22",
+              "name" : "V.Poutine",
+              "number" : "10"
+            },
+            {
+              "id" : "23",
+              "name" : "A.Kalashnikov",
+              "number" : "9"
+            }
+          ]
+        }
+      ]
     }
-  ],
-  "players": [
-
   ]
 }
